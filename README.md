@@ -1,4 +1,4 @@
-
+![Fernando Profile]([https://insightlaneanalytics.com/assets/fernando-profile.png](https://1drv.ms/i/c/099efea9650fe93e/EeRY6DVkxrxNp3UMtsnN2ZIB60SanSVIH__CpaLSyUtlvA?e=bCPS8N))
 
 # 👋 Hey there, I'm Fernando Oviedo
 
@@ -15,8 +15,6 @@ I'm a Data Scientist and Business Intelligence Specialist from Costa Rica 🇨�
   - Automate business processes with Python & Power BI
   - Deliver strategic dashboards that drive decisions
   - Lead cross-functional initiatives across global teams (LATAM, APAC)
-
----
 
 ---
 
