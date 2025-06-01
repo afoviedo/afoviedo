@@ -1,4 +1,4 @@
-![Fernando Profile]([https://insightlaneanalytics.com/assets/fernando-profile.png](https://1drv.ms/i/c/099efea9650fe93e/EeRY6DVkxrxNp3UMtsnN2ZIB60SanSVIH__CpaLSyUtlvA?e=bCPS8N))
+![Fernando Profile](banner.png)
 
 # 👋 Hey there, I'm Fernando Oviedo
 
